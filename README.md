@@ -63,7 +63,7 @@
 ### 2. 依赖库列表
 请通过 Arduino 库管理器 (Ctrl+Shift+I) 搜索并安装以下库：
 
-1.  **MFRC522** (by GithubCommunity)
+1.  **MFRC522**
     *   用途：读取 NFC 卡片 UID。
     *   [下载路径](https://github.com/OSSLibraries/Arduino_MFRC522)
 2.  **LiquidCrystal I2C**
